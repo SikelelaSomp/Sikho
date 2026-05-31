@@ -140,7 +140,7 @@ XGBoost outperformed the other classifiers, achieving strong recall on the minor
 
 ## 👤 Author
 
-**Sikelelä Mda**  
+**Sikelela Sompali**  
 [github.com/SikelelaSomp/Sikho](https://github.com/SikelelaSomp/Sikho)
 
 ---
